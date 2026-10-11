@@ -37,7 +37,7 @@ Version 4.2 introduces a completely redesigned user interface, improved performa
 - **Wallet Balance Checking** — Connect to blockchain networks and display accurate wallet balances.
 - **Local Storage** — All scanned wallets are securely stored locally on the device.
 
-### 🚀 What's New in Version 3.5
+### 🚀 What's New in Version 4.2
 
 - **Redesigned User Interface** — A modern and minimalist design with an improved user experience.
 - **Improved Speed** — Optimized search engine for faster wallet processing and checking.
